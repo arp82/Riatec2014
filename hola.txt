@@ -1,3 +1,5 @@
-hola no me funciona
-lo que tengo
-qu hacer rrrr
+#include <stdio.h>
+int main(){
+	printf("meh \n");
+	exit(0);
+}
