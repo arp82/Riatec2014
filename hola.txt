@@ -1,5 +1,7 @@
 #include <stdio.h>
 /**COMENTARIOS A GOGO*/
 int main(){
+	printf("meh \n");
+	exit(0);
 
 }
